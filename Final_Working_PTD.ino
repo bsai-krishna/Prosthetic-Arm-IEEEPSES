@@ -1,3 +1,5 @@
+// B Sai krishna
+// Prosthetic arm arduino final file
 
 #include <Servo.h>                                                              // We need a library called "Servo".
 Servo myservo;                                                                  // The servo motor we will use, will be called "myservo".
